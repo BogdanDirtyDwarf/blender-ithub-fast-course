@@ -12,12 +12,12 @@
 >>
 >> *Модификаторы;*
 >
-> **Пара II:**
+> [**Пара II:**](https://github.com/BogdanDirtyDwarf/blender-ithub-fast-course/tree/main/class-2)
 >> *Создание композиции;*
 >>
 >> *Базовое текстурирование;*
 >
-> **Пара III-IV:**
+> [**Пара III-IV:**](https://github.com/BogdanDirtyDwarf/blender-ithub-fast-course/tree/main/class-3-4)
 >> *Создание модели с костями;*
 >>
 >> *Создание анимации;*
