@@ -3,7 +3,7 @@
 ### Быстрый курс (Основы Blender) созданный специально для студентов колледжа IThub Ekat
 ---
 ### Roadmap:
-> [**Пара I:** `click me`](https://github.com/BogdanDirtyDwarf/blender-ithub-fast-course/tree/main/class-1)
+> [**Пара I:**](https://github.com/BogdanDirtyDwarf/blender-ithub-fast-course/tree/main/class-1)
 >> *История 3D;*
 >>
 >> *Blender Hotkeys;*
