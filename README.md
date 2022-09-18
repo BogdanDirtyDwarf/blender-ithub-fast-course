@@ -1,4 +1,5 @@
 # Blender IThub Ekat Course
+![Course Logo](./blender-course.png)
 ---
 ### Быстрый курс (Основы Blender) созданный специально для студентов колледжа IThub Ekat
 ---
