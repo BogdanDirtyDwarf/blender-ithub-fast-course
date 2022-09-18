@@ -75,7 +75,9 @@
 ![Горячие клавишы картинкой](./BLENDER-KEY.png)
 
 ---
-### [Основыне термины 3D](http://www.malbred.com/3d-grafika-3d-redaktory/sovremennaya-terminologiya-3d-grafiki.html)
----
+
+### Материалы для чтения:
+>[Основыне термины 3D](https://www.ixbt.com/video2/terms2k5.shtml)
+>[Ещё терминология 3D](http://www.malbred.com/3d-grafika-3d-redaktory/sovremennaya-terminologiya-3d-grafiki.html)
 
 
