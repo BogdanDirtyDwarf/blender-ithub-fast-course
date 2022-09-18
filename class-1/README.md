@@ -1,5 +1,4 @@
 # Blender IThub Ekat Course
----
 ### Материал I пары
 ---
 ### Hotkeys / Горячие клавиши:
