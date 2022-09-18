@@ -72,8 +72,8 @@
 >>
 >> *Создание объекта:* **shift-A**
 >>
----
 ![Горячие клавишы картинкой](./BLENDER-KEY.png)
+
 ---
 ### [Основыне термины 3D](http://www.malbred.com/3d-grafika-3d-redaktory/sovremennaya-terminologiya-3d-grafiki.html)
 ---
